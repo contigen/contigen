@@ -15,4 +15,4 @@ PS I maintain a package with over 13k+ downloads: [non.geist](https://github.com
 
 PPS I think the Web is beautifully cursed 🙃
 
-![word cloud forming the text 'cursed' in ASCII with a red gradient effect](./images/cursed.png)
+![word cloud forming the text 'cursed' in ASCII with a red gradient effect](./images/cursed-transparent.png)
