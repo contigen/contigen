@@ -7,7 +7,7 @@ I'm obsesssed with typography.
 
 ### Now
 
-I'm looking for a front-end/full-stack role with React/Next.js; if youʼre hiring or you know someone, kindly reach out on [X](https://x.com/_contigen).
+I'm looking for a front-end/full-stack role with React/Next.js; if youʼre hiring or you know someone, kindly reach out on [X](https://x.com/_contigen), or send a mail to [contigenhq@gmail.com](mailto:contigenhq@gmail.com)
 
 PS I maintain a package with over 13k+ downloads: [non.geist](https://github.com/contigen/non.geist)
 
