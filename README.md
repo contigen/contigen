@@ -11,7 +11,7 @@ I'm obsesssed with typography.
 
 I'm looking for a front-end/full-stack role with React/Next.js; if youʼre hiring or you know someone, kindly reach out on [X](https://x.com/_contigen), or send a mail to [contigenhq@gmail.com](mailto:contigenhq@gmail.com)
 
-PS I maintain a package with over 13k+ downloads: [non.geist](https://github.com/contigen/non.geist) and authored an [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=contigen.svg-onselect)
+PS I maintain a package with 20k+ downloads: [non.geist](https://github.com/contigen/non.geist) and authored an [SVG VS Code extension](https://marketplace.visualstudio.com/items?itemName=contigen.svg-onselect)
 
 ![word cloud forming the text 'non.geist' in ASCII with a gradient effect](./images/non-geist.png)
 
